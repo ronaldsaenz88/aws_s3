@@ -19,7 +19,7 @@ variable "tags_owner" {
 variable "bucket" {
   description = "Bucket Name"
   type        = string
-  default     = "BucketTestFlugel"
+  default     = "buckettestflugel"
 }
 
 variable "acl" {
